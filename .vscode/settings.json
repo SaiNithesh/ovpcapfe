@@ -12,6 +12,5 @@
     "eslint.nodePath": "C:\\Users\\saini.NAVEEN\\AppData\\Roaming\\npm\\node_modules\\@sap\\cds-dk\\node_modules",
     "eslint.options": {
         "configFile": "C:\\Users\\saini.NAVEEN\\AppData\\Roaming\\npm\\node_modules\\@sap\\cds-dk\\lib\\lint\\.eslintrc.js"
-    },
-    "actions": []
+    }
 }

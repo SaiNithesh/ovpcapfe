@@ -27,3 +27,8 @@ mta_archives/
 # IDEs
 # .vscode
 # .idea
+
+# auto generated wildcard
+ovpcapfe/gen/db/.env
+# auto generated wildcard
+ovpcapfe/gen/db/.env
