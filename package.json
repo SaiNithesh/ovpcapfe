@@ -6,13 +6,14 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.10",
-    "@sap/cds": "^6.4.1",
-    "@sap/cds-odata-v2-adapter-proxy": "^1.9.18",
-    "express": "^4.18.2",
-    "hdb": "^0.19.5",
-    "@sap/xssec": "^3",
-    "passport": "^0"
+    "@mapbox/node-pre-gyp": "^1.0.11",
+    "@sap/cds": "^7.9.2",
+    "@sap/cds-odata-v2-adapter-proxy": "^1.9.21",
+    "@sap/xssec": "^4",
+    "express": "^4.19.2",
+    "hdb": "^0.19.8",
+    "passport": "^0",
+    "sqlite3": "^5.1.7"
   },
   "engines": {
     "node": "^16"
